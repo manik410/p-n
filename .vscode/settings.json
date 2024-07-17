@@ -1,0 +1,6 @@
+{
+  "sonarlint.connectedMode.project": {
+    "connectionId": "https-coverage-credgenics-com",
+    "projectKey": "push-notifications-consumer"
+  }
+}
